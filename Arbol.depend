@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1656275517 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\arbol.c
+	"arbol.h"
+
+1656275517 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\arbol.h
+	<memory.h>
+	<math.h>
+	"utilitarios.h"
+
+1656202337 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\utilitarios.h
+	<stdio.h>
+	<stdlib.h>
+
+1656275784 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\main.c
+	"main.h"
+
+1656275317 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\main.h
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"arbol.h"
+
+1656275188 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\menu.c
+	"menu.h"
+
+1656275184 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\arbol\menu.h
+	<stdio.h>
+	<stdlib.h>
+
